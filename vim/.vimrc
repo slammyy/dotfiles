@@ -1,0 +1,9 @@
+set ai
+set number
+set scrolloff=8
+set shiftwidth=4
+set tabstop=4
+set nowrap
+set noswapfile
+set hlsearch
+set ruler

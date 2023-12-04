@@ -1,0 +1,9 @@
+[alias]
+    ac = commit -am
+    st = status
+    df = diff
+    lg = log --oneline --graph
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
